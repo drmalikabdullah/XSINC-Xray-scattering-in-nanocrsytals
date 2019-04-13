@@ -1,0 +1,1 @@
+sh xtant-to-xsinc-struct.sh   ./OUTPUT_Silicon_hw\=5950.0_t\=25.0  -maxflu 2.52 -snp 3  -udim 4 -focus 1000  -sdim 123  -numreal 1

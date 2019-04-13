@@ -1,0 +1,36 @@
+Data_Path               /home/abdullah/Documents/Development/XSINC-DEVEL/cluster.test_3.F
+CPUcores                1
+Sample_type             spi          #nanocrystal
+NumAtoms                423           #1000       #184
+TotalParticles          0
+NumPhotons              1.00e+11     #1e12       #2.28e10
+SpatialPulse            flattop      #gaussian
+TemporalPulse           gaussian     #flattop
+system                  damaged      #undamaged
+FDoublePrime            off          #on
+PulseDuration           15           #femtoseconds
+T0                      30           #femtoseconds   
+EffectiveF              off          #on
+Lambda                  1.24         #1.24       #1.28383
+UdimX                   22           #Angstroms
+UdimY                   22           #Angstroms
+UdimZ                   22           #Angstroms
+SdimX                   22           #Angstroms
+SdimY                   22           #Angstroms
+SdimZ                   22           #Angstroms
+Focus                   1000         #Angstroms
+Depth                   1            
+StartSnap               0
+SnapDiff                1000
+FinalSnapshot           30
+Realizations            1 
+Molecular_Dynamics      yes
+regparam                0.4
+alpha                   0.5
+Rcut                     2
+Kcut                     3
+MinImg                   no
+HARDWALL                 yes
+
+
+Seed                    00000001
